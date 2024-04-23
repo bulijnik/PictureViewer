@@ -1,0 +1,10 @@
+C:\Users\29363706\Desktop\PicVier Виноградов\bin\Debug\PicVier Виноградов.exe.config
+C:\Users\29363706\Desktop\PicVier Виноградов\bin\Debug\PicVier Виноградов.exe
+C:\Users\29363706\Desktop\PicVier Виноградов\bin\Debug\PicVier Виноградов.pdb
+C:\Users\29363706\Desktop\PicVier Виноградов\obj\Debug\PicVier_Виноградов.Properties.Resources.resources
+C:\Users\29363706\Desktop\PicVier Виноградов\obj\Debug\PicVier Виноградов.csproj.GenerateResource.cache
+C:\Users\29363706\Desktop\PicVier Виноградов\obj\Debug\PicVier Виноградов.csproj.CoreCompileInputs.cache
+C:\Users\29363706\Desktop\PicVier Виноградов\obj\Debug\PicVier Виноградов.exe
+C:\Users\29363706\Desktop\PicVier Виноградов\obj\Debug\PicVier Виноградов.pdb
+C:\Users\29363706\Desktop\PicVier Виноградов\obj\Debug\PicVier_Виноградов.Form1.resources
+C:\Users\29363706\Desktop\PicVier Виноградов\obj\Debug\PicVier Виноградов.csproj.AssemblyReference.cache
